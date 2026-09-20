@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-**[View Live Demo](https://your-username.github.io/graphic-designer-portfolio/)**
+[![Portfolio Preview](Screenshot%202026-09-20%20123626.png)](https://mr-umesh122.github.io/Umez_CSP/)
 
 > Replace the link above with your actual GitHub Pages URL.
 
